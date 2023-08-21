@@ -26,6 +26,9 @@ $ git clone <paste the copied link>
 
 ## Link Deploy
 
+http://localhost:3000/YT-Portfolio
+https://yasminetsu.github.io/YT-PortfolioLinks to an external site.
+
 ## Imgs
 
   <img src="./src/assets/img/h1.png" alt="screenshots">
