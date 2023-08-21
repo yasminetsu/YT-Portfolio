@@ -41,6 +41,7 @@ export const Projects = () => {
 
   return (
     <section className="project" id="project">
+      
       <Container>
         <Row>
           <Col size={12}>
@@ -55,6 +56,7 @@ export const Projects = () => {
                   <Tab.Content id="slideInUp" className={isVisible ? "animate__animated animate__slideInUp" : ""}>
                     <Tab.Pane eventKey="first">
                       <Row>
+                        
                         {
                           projects.map((project, index) => {
                             return (
